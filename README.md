@@ -6,8 +6,8 @@ Anyways, I'm a developer (and designer a bit if you say so) from Ankara, Turkey 
 
 ### Get in touch with me
 ・ [**Discord**](https://discordapp.com/users/606069009913348096)&nbsp;&nbsp;&nbsp;&nbsp;・ ysfchn#0001<br>
-・ [**Email**](https://discordapp.com/users/606069009913348096)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;・ contact[at]yusufcihan.com<br>
+・ **Email**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;・ hi[at]ysfchn.com
 ・ [**Telegram**](https://t.me/ysfchn)&nbsp;・ ysfchn<br>
-・ [**Website**](https://yusufcihan.com)&nbsp;&nbsp;&nbsp;・ yusufcihan.com
+・ [**Website**](https://ysfchn.com)&nbsp;&nbsp;&nbsp;・ ysfchn.com
 
-[![Yusuf Cihan](https://github-readme-stats.vercel.app/api?username=ysfchn&show_icons=true&count_private=true&theme=dark)](https://yusufcihan.com)
+[![Yusuf Cihan](https://github-readme-stats.vercel.app/api?username=ysfchn&show_icons=true&count_private=true&theme=dark)](https://ysfchn.com)
