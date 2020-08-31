@@ -6,7 +6,7 @@ Anyways, I'm a developer (and designer a bit if you say so) from Ankara, Turkey 
 
 ### Get in touch with me
 ・ [**Discord**](https://discordapp.com/users/606069009913348096)&nbsp;&nbsp;&nbsp;&nbsp;・ ysfchn#0001<br>
-・ **Email**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;・ hi[at]ysfchn.com
+・ **Email**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;・ hi[at]ysfchn.com<br>
 ・ [**Telegram**](https://t.me/ysfchn)&nbsp;・ ysfchn<br>
 ・ [**Website**](https://ysfchn.com)&nbsp;&nbsp;&nbsp;・ ysfchn.com
 
